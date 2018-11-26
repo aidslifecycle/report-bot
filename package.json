@@ -1,0 +1,23 @@
+{
+  "name": "report-bot",
+  "version": "1.0.0",
+  "description": "Automated report runner for Luminate Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidslifecycle/report-bot.git"
+  },
+  "author": "Jeffrey Lowy <jeffreylowy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aidslifecycle/report-bot/issues"
+  },
+  "homepage": "https://github.com/aidslifecycle/report-bot#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "puppeteer": "^1.10.0"
+  }
+}
